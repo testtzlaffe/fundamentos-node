@@ -23,7 +23,7 @@
 
 ## :rocket: Sobre o desafio
 
-Este é o quinto desafio do Bootcamp GoStack #12, da <a href="https://rocketseat.com.br/">Rocketseat</a>, para treinar o que aprendi neste módulo de Fundamentos do Node.js.
+Este é o quinto desafio do Bootcamp GoStack #12, da <a href="https://rocketseat.com.br/">Rocketseat</a>, intitulado Fundamentos do Node.js.
 
 Trata-se de uma aplicação para continuar treinando o que aprendi até agora no Node.js junto ao TypeScript, utilizando os conceitos de models, repositories e services.
 
